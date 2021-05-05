@@ -34,6 +34,8 @@ jobs:
     - run: npm run export
       env:
         NEXT_PUBLIC_STRAPI_API_URL: https://blog-8.herokuapp.com
+    - run: touch ./build/.nojekyll
+        
     - name: Deploy 🚀
     
       uses: JamesIves/github-pages-deploy-action@4.1.1
