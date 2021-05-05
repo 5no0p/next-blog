@@ -1,4 +1,5 @@
 module.exports = {
-    basePath: '/',
+    basePath: '',
     assetPrefix: '/',
+    distDir: 'build',
 }
