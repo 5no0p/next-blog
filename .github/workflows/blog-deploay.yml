@@ -34,11 +34,11 @@ jobs:
     - run: npm run export
       env:
         NEXT_PUBLIC_STRAPI_API_URL: https://blog-8.herokuapp.com
-    - run: touch ./build/.nojekyll
+    - run: touch ./out/.nojekyll
         
     - name: Deploy 🚀
     
       uses: JamesIves/github-pages-deploy-action@4.1.1
       with:
         branch: gh-pages # The branch the action should deploy to.
-        folder: build # The folder the action should deploy.
+        folder: out # The folder the action should deploy.
