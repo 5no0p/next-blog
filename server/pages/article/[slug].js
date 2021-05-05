@@ -1035,7 +1035,7 @@ let detectDomainLocale;
 
 if (false) {}
 
-const basePath =  false || '';
+const basePath = "/next-blog" || 0;
 
 function buildCancellationError() {
   return Object.assign(new Error('Route Cancelled'), {
