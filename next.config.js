@@ -1,5 +1,5 @@
 module.exports = {
-    // basePath: '',
-    // assetPrefix: '/',
+    basePath: '/next-blog',
+    assetPrefix: '/next-blog',
     distDir: 'build',
 }
