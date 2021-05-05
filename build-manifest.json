@@ -5,12 +5,12 @@
   "devFiles": [],
   "ampDevFiles": [],
   "lowPriorityFiles": [
-    "static/EWTkbqjy5nUmWkbJlV_Ou/_buildManifest.js",
-    "static/EWTkbqjy5nUmWkbJlV_Ou/_ssgManifest.js"
+    "static/tkI4X3RlChZ6bp4Ed8vRy/_buildManifest.js",
+    "static/tkI4X3RlChZ6bp4Ed8vRy/_ssgManifest.js"
   ],
   "pages": {
     "/": [
-      "static/chunks/webpack-5c793d139197175cf9d7.js",
+      "static/chunks/webpack-b386fad47bfc236e5a70.js",
       "static/chunks/framework-95fb45bcb315e1d83eb9.js",
       "static/chunks/commons-a448012aa8bcd9c2740b.js",
       "static/chunks/main-48859bba9d60c2c65558.js",
@@ -19,7 +19,7 @@
       "static/chunks/pages/index-c7c84ff433a08a4c064d.js"
     ],
     "/_app": [
-      "static/chunks/webpack-5c793d139197175cf9d7.js",
+      "static/chunks/webpack-b386fad47bfc236e5a70.js",
       "static/chunks/framework-95fb45bcb315e1d83eb9.js",
       "static/chunks/commons-a448012aa8bcd9c2740b.js",
       "static/chunks/main-48859bba9d60c2c65558.js",
@@ -27,24 +27,24 @@
       "static/chunks/pages/_app-f0a28e22ad4c645fea22.js"
     ],
     "/_error": [
-      "static/chunks/webpack-5c793d139197175cf9d7.js",
+      "static/chunks/webpack-b386fad47bfc236e5a70.js",
       "static/chunks/framework-95fb45bcb315e1d83eb9.js",
       "static/chunks/commons-a448012aa8bcd9c2740b.js",
       "static/chunks/main-48859bba9d60c2c65558.js",
       "static/chunks/pages/_error-8e7f990df4b6ff8f3118.js"
     ],
     "/article/[slug]": [
-      "static/chunks/webpack-5c793d139197175cf9d7.js",
+      "static/chunks/webpack-b386fad47bfc236e5a70.js",
       "static/chunks/framework-95fb45bcb315e1d83eb9.js",
       "static/chunks/commons-a448012aa8bcd9c2740b.js",
       "static/chunks/main-48859bba9d60c2c65558.js",
       "static/chunks/75fc9c18-9942a58048f91d946457.js",
       "static/chunks/340-2d4bf1c64655620e530e.js",
       "static/css/dc8888260b943f38472c.css",
-      "static/chunks/pages/article/[slug]-1fb8ccaa2d63c4d01ff8.js"
+      "static/chunks/pages/article/[slug]-444aa180516c62ab00d2.js"
     ],
     "/catogery/[slug]": [
-      "static/chunks/webpack-5c793d139197175cf9d7.js",
+      "static/chunks/webpack-b386fad47bfc236e5a70.js",
       "static/chunks/framework-95fb45bcb315e1d83eb9.js",
       "static/chunks/commons-a448012aa8bcd9c2740b.js",
       "static/chunks/main-48859bba9d60c2c65558.js",

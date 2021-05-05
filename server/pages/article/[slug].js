@@ -3151,8 +3151,7 @@ const Article = ({
       children: /*#__PURE__*/(0,jsx_runtime_.jsxs)("div", {
         className: "uk-container uk-container-small",
         children: [/*#__PURE__*/jsx_runtime_.jsx((external_react_markdown_default()), {
-          source: article.content,
-          escapeHtml: false
+          children: article.content
         }), /*#__PURE__*/jsx_runtime_.jsx("hr", {
           className: "uk-divider-small"
         }), /*#__PURE__*/(0,jsx_runtime_.jsxs)("div", {
