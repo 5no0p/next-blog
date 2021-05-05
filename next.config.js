@@ -1,6 +1,6 @@
 module.exports = {
-    // basePath: '/next-blog',
-    // assetPrefix: 'next-blog',
+    basePath: '/next-blog',
+    assetPrefix: 'next-blog',
     distDir: 'out',
     target: 'serverless'
 }
